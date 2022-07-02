@@ -36,6 +36,23 @@ dependencies:
   firebase_core: ^1.19.1
   firebase_auth: ^3.4.1
 
+  #Google Fonts
+  google_fonts: ^3.0.1
+
+  #Google place
+  google_place: ^0.4.7
+  geocoder: ^0.2.1
+
+  #Geolocator
+  geolocator: ^9.0.0
+
+  #HTTP
+  http: ^0.13.4
+  cloud_firestore: ^3.2.1
+
+  #Intl
+  intl: ^0.17.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
